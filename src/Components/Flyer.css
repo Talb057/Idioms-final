@@ -1,0 +1,17 @@
+.flyer-container{
+    display: flex;
+}
+
+
+
+.flyer-image1{
+    /* background: url(/public/images/img-2.jpg); */
+    width: 900px;
+    height: 600px;
+}
+
+
+.flyer-text1{
+    border: 1px #ccc solid;
+}
+
