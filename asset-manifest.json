@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Idioms-final/static/css/main.345c9f0b.css",
+    "main.js": "/Idioms-final/static/js/main.17ab02fd.js",
+    "static/media/globe.jpg": "/Idioms-final/static/media/globe.e4e446196bd6aa993c20.jpg",
+    "static/media/img-3.jpg": "/Idioms-final/static/media/img-3.ab38d75f07ad9b870201.jpg",
+    "static/media/img-1.jpg": "/Idioms-final/static/media/img-1.e6de09f76c65cb1ce903.jpg",
+    "static/media/img-9.jpg": "/Idioms-final/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "index.html": "/Idioms-final/index.html",
+    "main.345c9f0b.css.map": "/Idioms-final/static/css/main.345c9f0b.css.map",
+    "main.17ab02fd.js.map": "/Idioms-final/static/js/main.17ab02fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345c9f0b.css",
+    "static/js/main.17ab02fd.js"
+  ]
+}
