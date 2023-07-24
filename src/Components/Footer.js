@@ -8,27 +8,25 @@ function Footer() {
     <div className='footer-container'>
         <section className="footer-subscription">
             <p className="footer-subscription-heading">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minus velit aliquid?
+                Contact Information:
             </p>
             <p className="footer-subscription-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore nam deleniti eaque labore?
+              48 Iceland St., Ottawa, Ontario
             </p>
-            <div className="input-areas">
-              <form>
-                <input type="email" name='email' placeholder='Your Email' className="footer-input" />
-                <Button buttonStyle="btn--outline">Subscribe</Button>
-              </form>
-            </div>
+            <p className="footer-subscription-text">
+              (314) 159-2653
+            </p>
+            <p className="footer-subscription-text">
+              idioms@idioms.com
+            </p>
+            <p className="footer-subscription-text">
+              Mon-Sat: 8:00 a.m. - 7 p.m.
+            </p>
+            <p className="footer-subscription-link">
+              <Link to="/aboutus">About Us</Link>
+            </p>
+            
         </section>
-        <div className="footer-links">
-          <div className="footer-link-wrapper">
-            <div className="footer-link-items">
-              <h2>About Us</h2>
-              <Link to="/sign-up">How it works</Link>
-              <Link to="/">Testimonials</Link>
-            </div>
-          </div>
-        </div>
     </div>
   )
 }

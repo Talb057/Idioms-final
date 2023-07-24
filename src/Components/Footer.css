@@ -29,8 +29,16 @@
 
 .footer-subscription-text{
     margin-bottom: 24px;
-    font-size: 20px;
+    font-size: 18px;
 }
+
+.footer-subscription-link a{
+    margin-bottom: 24px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: underline;
+}
+
 
 .footer-input{
     padding: 8px 20px;
